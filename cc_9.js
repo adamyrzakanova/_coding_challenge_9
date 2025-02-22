@@ -78,3 +78,6 @@ const company = new Company("TechCorp"); //Test case
 company.addEmployee(emp1); //Adding emp1 using addEmployee method
 company.addEmployee(mgr1); //Adding mgr1 using addEmployee method
 company.listEmployees(); //Logging
+
+//Task 4 - Implemented Payroll System
+console.log(company.calculateTotalPayroll()); //Logging
