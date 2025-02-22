@@ -81,3 +81,7 @@ company.listEmployees(); //Logging
 
 //Task 4 - Implemented Payroll System
 console.log(company.calculateTotalPayroll()); //Logging
+
+//Task 5 - Implemented Promotion System
+company.promoteToManager(emp1, 3); //Test case
+company.listEmployees(); //Logging
